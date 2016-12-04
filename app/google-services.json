@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "934640608729",
+    "firebase_url": "https://authentication-33624.firebaseio.com",
+    "project_id": "authentication-33624",
+    "storage_bucket": "authentication-33624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934640608729:android:3e3ae1396579d709",
+        "android_client_info": {
+          "package_name": "com.horngmail.invisible.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934640608729-f535n61telapspigp2167avr7jq1g3k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoYU8BN4MuVxJ2stkQRGPml-8Ox9xoHwo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
